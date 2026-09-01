@@ -76,7 +76,7 @@ into one interface.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-nair-93495032a/)
 
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR_RESUME_URL)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1VM5W3y_Z7NPZYUlEOcPOw193cCjW31h6/view?usp=sharing)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindhere.06@gmail.com)
 
