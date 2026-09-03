@@ -9,7 +9,8 @@ used to solve real-world problems.
 Currently working with **RAG, Hybrid Search, Machine Learning,
 Generative AI and Backend Development.**
 
-This here is my porfolio website: https://portfolio-website-sandy-kappa-76.vercel.app/
+
+This is my porfolio website: https://portfolio-website-sandy-kappa-76.vercel.app/
 
 ---
 
