@@ -1,98 +1,102 @@
-# Hey, I'm Govind Nair 👋
+<div align="center">
 
-### Computer Engineering Student | GenAI & ML Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=Govind%20Nair&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Undergraduate&descAlignY=58&descSize=18" width="100%"/>
 
-I'm a Computer Engineering student interested in building
-practical AI systems and exploring how modern AI can be
-used to solve real-world problems.
+<a href="https://www.linkedin.com/in/govind-nair-93495032a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:govindhere.06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/govindhere06-code"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-Currently working with **RAG, Hybrid Search, Machine Learning,
-Generative AI and Backend Development.**
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E5EC7&center=true&vCenter=true&width=560&lines=Building+with+Python+%2B+the+web;GSSoC+2026+%E2%80%94+AI%2FAgents+%2B+Open+Source+Contributor;Exploring+AI+%C2%B7+Web+Dev+%C2%B7+Cybersecurity" alt="Typing SVG" />
 
-This is my porfolio website: https://portfolio-website-sandy-kappa-76.vercel.app/
+</div>
 
----
+<br/>
 
-## 🚀 What I'm Working On
+## About
 
-- 🤖 Retrieval-Augmented Generation (RAG)
-- 🔎 Hybrid Search & Reranking
-- 🧠 Generative AI
-- 📊 Machine Learning
-- 🔧 AI Agents & MCP
-- ⚙️ Backend Development
+Third-year Computer Engineering student at Vidyavardhini College of Engineering and Technology. Selected as a Contributor/Mentee for **GirlScript Summer of Code 2026** (AI/Agents + Open Source Track), where I ship PRs, fix bugs, and review contributions on live open-source repos. Outside of that I build things that actually run — retrieval pipelines, scrapers, small platforms — usually at 2am, usually at a hackathon.
 
----
+- 🔭 Currently building **HybridRAG**, a hybrid dense + sparse retrieval pipeline with reranking
+- 🌱 Currently deep in **AI/Agents** and **Cybersecurity** as focus areas
+- 🛰️ Once forecasted solar flares for ISRO's Bharatiya Antariksh Hackathon — turns out space weather and code review have more in common than you'd think
+- 💬 Ask me about hybrid search, RAG evaluation, or why your `try/finally` doesn't close what you think it closes
 
-## 🛠️ Tech Stack
+<br/>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech Stack
 
-### AI / ML
-![Python](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,express,git,github,vscode&theme=dark" />
+</div>
 
-### Tools & Backend
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<br/>
 
----
+## Projects
 
-## 🌟 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔎 Hybrid RAG Pipeline
-A Retrieval-Augmented Generation pipeline using:
+### 🔎 [HybridRAG](https://github.com/govindhere06-code/HybridRAG)
+**Hybrid dense + sparse retrieval, with receipts**
 
-**Dense Search + Sparse Search → RRF → Reranking → LLM**
+Combines semantic search and BM25 via Reciprocal Rank Fusion, then reranks with a cross-encoder. Ships with its own eval harness — 30–50 exact-term and paraphrase queries scored on Recall@k and MRR — to prove hybrid actually beats single-method retrieval instead of just claiming it.
 
-Focused on improving retrieval quality and reducing irrelevant
-context before generation.
+`Python` `FastAPI` `pgvector` `BM25` `Cross-Encoder`
 
-### 🍽️ Dinewise
-A restaurant rating aggregation platform that combines
-restaurant information and ratings from multiple sources
-into one interface.
+</td>
+<td width="50%" valign="top">
 
+### 🍽️ [DineWise](https://github.com/govindhere06-code/Dinewise-Final-Working)
+**One search bar for every restaurant in India**
 
----
+Aggregates Google Places data with custom Swiggy/Zomato scrapers into a single discovery interface, so ratings, reviews, and map links show up in one place instead of four tabs.
 
-## 📚 Currently Learning
+`Node.js` `Express` `Web Scraping` `Google Places API`
 
-- Advanced RAG architectures
-- Information Retrieval
-- LLM applications
-- Machine Learning
-- Data Structures & Algorithms
-- Backend Engineering
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🤝 Connect With Me
+## Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-nair-93495032a/)
+**Open Source Contributor / Mentee** · GirlScript Summer of Code 2026 — AI/Agents + Open Source Track · *May – Aug 2026*
+Submitting PRs, fixing bugs, and shipping feature work on live repos; reviewing peer contributions and improving onboarding docs alongside maintainers across async channels.
 
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1VM5W3y_Z7NPZYUlEOcPOw193cCjW31h6/view?usp=sharing)
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindhere.06@gmail.com)
+## Awards & Certifications
 
----
+🛰️ **Bharatiya Antariksh Hackathon 2026** — Team Murphy's Law, solar flare forecasting/nowcasting from Aditya-L1 observations (ISRO national-level hackathon)
+🐍 **The Complete Python Bootcamp** — Udemy, fundamentals through advanced
 
-## 📊 GitHub Stats
+<br/>
 
-![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindhere06-code&show_icons=true&theme=tokyonight)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindhere06-code&layout=compact&theme=tokyonight)
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=govindhere06-code&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindhere06-code&layout=compact&theme=radical&hide_border=true" />
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=govindhere06-code&theme=radical&hide_border=true" />
+</div>
 
-### 💭 Building. Learning. Experimenting.
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=govindhere06-code&theme=radical&no-frame=true&row=1&column=6" />
+</div>
 
-⭐ Feel free to explore my repositories!
+<br/>
+
+<div align="center">
+
+*Open to collaborating on Web Dev, AI, and Cybersecurity projects — reach out anytime.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=100&section=footer" width="100%"/>
+
+</div>
