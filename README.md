@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E5EC7&center=true&vCenter=true&width=560&lines=Building+with+Python+%2B+the+web;GSSoC+2026+%E2%80%94+AI%2FAgents+%2B+Open+Source+Contributor;Exploring+AI+%C2%B7+Web+Dev+%C2%B7+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E5EC7&center=true&vCenter=true&width=560&lines=Building+with+Python+%2B+the+web;Exploring+AI+%C2%B7+Web+Dev+%C2%B7+Cybersecurity" alt="Typing SVG" />
 
 </div>
 
