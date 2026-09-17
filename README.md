@@ -39,7 +39,7 @@ Third-year Computer Engineering student at Vidyavardhini College of Engineering 
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [HybridRAG](https://github.com/govindhere06-code/HybridRAG)
+### 🔎 [HybridRAG](https://github.com/govindhere06-code/RAG-Pipeline-With-Hybrid-Search)
 **Hybrid dense + sparse retrieval, with receipts**
 
 Combines semantic search and BM25 via Reciprocal Rank Fusion, then reranks with a cross-encoder. Ships with its own eval harness — 30–50 exact-term and paraphrase queries scored on Recall@k and MRR — to prove hybrid actually beats single-method retrieval instead of just claiming it.
