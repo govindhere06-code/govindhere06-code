@@ -6,6 +6,7 @@
 
 ```javascript
 const govind = {
+  pronouns: "he" | "him",
   role: "Computer Engineering Undergraduate",
   education: "B.E. Computer Engineering @ Vidyavardhini College of Engineering and Technology (2024 - 2028)",
   code: [Python, JavaScript, HTML, CSS],
